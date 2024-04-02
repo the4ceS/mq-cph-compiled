@@ -1,0 +1,39 @@
+﻿  cphArrayList.c
+  cphBundle.c
+  cphConfig.c
+  cphDestinationFactory.c
+  cphListIterator.c
+  cphLog.c
+  cphMQSplitter.c
+  cphNameVal.c
+  cphSpinLock.c
+  cphStringBuffer.c
+  cphTrace.c
+  cphUtil.c
+  ControlThread.cpp
+  cph.cpp
+  DLQMon.cpp
+  Dummy.cpp
+  Forwarder.cpp
+  Lock.cpp
+  MQIObjects.cpp
+  MQIOpts.cpp
+  MQIOther.cpp
+  MQIWorkerThread.cpp
+  PublisherV6.cpp
+  PubSub.cpp
+  PutGet.cpp
+  ReconnectTimer.cpp
+  Requester.cpp
+  RequesterReconnectTimer.cpp
+  Responder.cpp
+  SndRcv.cpp
+  SubscriberV6.cpp
+  Thread.cpp
+  Kompilieren...
+  WorkerThread.cpp
+  Code wird generiert.
+  Previous IPDB not found, fall back to full compilation.
+  All 1114 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Codegenerierung ist abgeschlossen.
+  cph.vcxproj -> C:\Users\heyers.INTWORKS\Desktop\mq-cph-master\Release\Windows_x64\cph.exe
